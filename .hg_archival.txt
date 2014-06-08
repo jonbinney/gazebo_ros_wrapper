@@ -1,0 +1,5 @@
+repo: e803bb5fe03c1370cbb9f434912cd73fd1e7942d
+node: 78bc3990f6c9c9390d6a1df71ae41ee0fef8387c
+branch: gazebo_2.2
+latesttag: gazebo-current_2.2.2
+latesttagdistance: 1
