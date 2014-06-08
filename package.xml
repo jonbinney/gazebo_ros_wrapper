@@ -1,0 +1,18 @@
+<package>
+  <name>gazebo</name>
+  <version>2.2.2</version>
+  <description>
+    ROS wrapper for gazebo.
+  </description>
+  <maintainer email="foo@foo.com">Ivana Bildbotz</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>cmake</buildtool_depend>
+
+  <build_depend>sdformat</build_depend>
+
+  <export>
+    <build_type>cmake</build_type>
+  </export>
+</package>
+
