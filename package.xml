@@ -11,6 +11,24 @@
 
   <build_depend>sdformat</build_depend>
 
+  <!-- Try to satisfy dependencies we need for a source install. Copied these
+       from http://gazebosim.org/wiki/2.2/install -->
+  <build_depend>protobuf-dev</build_depend>
+  <build_depend>libqt4</build_depend>
+  <build_depend>libqt4-dev</build_depend>
+  <build_depend>tar</build_depend>
+  <build_depend>curl</build_depend>
+  <build_depend>libcegui-mk2-dev</build_depend>
+  <build_depend>tbb</build_depend>
+  <build_depend>libswscale-dev</build_depend>
+  <build_depend>ffmpeg</build_depend> <!-- for libavformat-dev -->
+  <build_depend>libogre-dev</build_depend>
+  <build_depend>libgts</build_depend>
+  <build_depend>libtool</build_depend>
+  <build_depend>freeimage</build_depend>
+  <build_depend>glut</build_depend>
+
+
   <export>
     <build_type>cmake</build_type>
   </export>
